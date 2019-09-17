@@ -1,10 +1,3 @@
-Chapter 1 : Go and LLVM architecture.
-Chapter 2 : TinyGo.
-Chapter 3 : Let there be light.
-Chapter 4 : Show me your name.
-Chapter 5 : Let's get moving.
-Chapter 6 : Give me a sign.
-Chapter 7 : Let’s communicate.
-Chapter 8 : Its hot in here.
-Chapter 9 : The distance between us.
-Chapter 10 : Remember Me.
+chapter1.txt
+chapter2.txt
+chapter3.txt
