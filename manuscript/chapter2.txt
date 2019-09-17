@@ -1,4 +1,4 @@
-# Chapter 2
+# TinyGo
 
 To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
 

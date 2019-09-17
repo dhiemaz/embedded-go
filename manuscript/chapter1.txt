@@ -1,2 +1,2 @@
-# Chapter 1
+# Go and LLVM architecture
 Hello, world for Go!
